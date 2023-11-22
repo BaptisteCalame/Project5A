@@ -60,39 +60,39 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ControllerKeyEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\WifiDisplayModelCallback.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\IntCallback.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PackageControlEnum.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\CustomizeSettingsTabEnum.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\HomeEventEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\LongCallback.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\MarkerInfoCallback.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\StringCallback.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ScreenOffDelayTimeEnum.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\DeviceControlEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\USBConfigModeEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PowerOnOffLogoEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PICOCastOptionValueEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PICOCastOptionOrStatusEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\PXR_Enterprise.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Model\MarkerInfo.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\SwitchEnum.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PicoCastMediaFormat.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\SystemFunctionSwitchEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\StartVRSettingsEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Plugin\PXR_SystemPlugin.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\SystemInfoEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\HomeFunctionEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PICOCastUrlTypeEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ScreencastAudioOutputEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\SleepDelayTimeEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ControllerKeyEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\IntCallback.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PackageControlEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\CustomizeSettingsTabEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\HomeEventEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\StringCallback.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ScreenOffDelayTimeEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\DeviceControlEnum.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Model\MarkerInfo.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PicoCastMediaFormat.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\SystemFunctionSwitchEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Model\WifiDisplayModel.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Plugin\PXR_EnterpriseTools.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ControllerPairTimeEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\BindCallback.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\HomeFunctionEnum.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\PICOCastUrlTypeEnum.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Interfaces\BoolCallback.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\ScreencastAudioOutputEnum.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Enterprise\Scripts\Enums\SleepDelayTimeEnum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\PICO Unity Integration SDK 230\Enterprise\PICOXR.TobSupport.asmdef" />

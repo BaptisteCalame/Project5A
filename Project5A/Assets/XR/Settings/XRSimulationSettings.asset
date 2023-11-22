@@ -9,11 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c52faa1787e89a4eaf8abdae2e6ae25, type: 3}
-  m_Name: PXR_Settings
+  m_Script: {fileID: 11500000, guid: e0688bbae6cedcd4a871944e38c19ec0, type: 3}
+  m_Name: XRSimulationSettings
   m_EditorClassIdentifier: 
-  stereoRenderingModeAndroid: 1
-  systemDisplayFrequency: 2
-  optimizeBufferDiscards: 1
-  enableAppSpaceWarp: 0
-  systemSplashScreen: {fileID: 0}

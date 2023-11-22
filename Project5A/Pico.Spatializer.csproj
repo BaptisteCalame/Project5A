@@ -61,11 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_AmbisonicSource.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_AudioListener.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_Types.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_API.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_SceneGeometry.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_Context.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_AudioListener.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_Types.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_AudioSource.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\SpatialAudio\Runtime\PXR_Audio_Spatializer_SceneMaterial.cs" />
   </ItemGroup>

@@ -61,12 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\EditorConf.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PlatformPreprocessor.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\Menu.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PicoGs.cs" />
-    <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PlatformManifestRewrite.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PlatformConfig.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PcConfig.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PlatformPreprocessor.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PicoGs.cs" />
+    <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PlatformManifestRewrite.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\PXR_PlatformSettingEditor.cs" />
     <Compile Include="Packages\PICO Unity Integration SDK 230\Platform\Editor\Gs.cs" />
   </ItemGroup>
