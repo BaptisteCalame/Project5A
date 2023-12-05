@@ -17,7 +17,6 @@ public class SensePackMR : MonoBehaviour
 
     private void Awake()
     {
-        PXR_MixedReality.EnableVideoSeeThrough(true);
         leftTrigger.action.started += OnLeftTrigger;
         rightTrigger.action.started += OnRightTrigger;
     }
@@ -28,13 +27,6 @@ public class SensePackMR : MonoBehaviour
         rightTrigger.action.started -= OnRightTrigger;
     }
 
-    //Re-enable seethrough after the app resumes
-    private void OnApplicationPause(bool pause)
-    {
-        if (!pause)
-            PXR_MixedReality.EnableVideoSeeThrough(true);
-
-    }
     // Start is called before the first frame update
     void Start()
     {
